@@ -1,6 +1,6 @@
-#include<iostream>
-using namespace std;
-int main()
+#include <cstdio>
+
+int main(void)
 {
-    cout<<"Hello World!";
+	printf("Hello World!\n");
 }
